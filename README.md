@@ -10,3 +10,4 @@ akshansh-kaushal-b810a228b).
 Akshansh0612/Akshansh0612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Contribution Snake](https://github.com/Akshansh0612/Akshansh0612/blob/output/github-contribution-grid-snake-dark.svg)
